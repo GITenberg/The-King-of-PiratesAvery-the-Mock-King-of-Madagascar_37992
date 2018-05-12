@@ -17,6 +17,8 @@ creator:
     - http://en.wikipedia.org/wiki/Daniel_Defoe
     - http://www.gutenberg.org/browse/authors/j#a26500
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/37992#The-King-of-PiratesAvery-the-Mock-King-of-Madagascar
 gutenberg_issued: '2011-11-12'
 gutenberg_type: Text
 identifiers:
